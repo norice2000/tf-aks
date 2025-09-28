@@ -1,4 +1,5 @@
 # Sample generated where we output the tf output into this file
+# Remember to export this as kube config export KUBECONFIG=./azurek8s
 apiVersion: v1
 clusters:
 - cluster:
